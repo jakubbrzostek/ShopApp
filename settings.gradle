@@ -1,0 +1,1 @@
+include ':app', ':broadcastreceiver', ':common'
